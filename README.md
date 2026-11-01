@@ -1,4 +1,4 @@
-# MITx 6.00.2x: Introduction to Computational Thinking and Data Science
+# 6.00.2x: Introduction to Computational Thinking and Data Science
 
 This repository contains my solutions to the programming problem sets for MITx's
 6.00.2x: Introduction to Computational Thinking and Data Science. All submitted
