@@ -23,12 +23,12 @@ passed 100% of the test cases and received full credit on the autograder.
 | Problem Set 3 | [pset3][pset3-solution] |
 | Problem Set 4 | [pset4][pset4-solution] |
 
-<!-- Official website links -->
+<!-- Course website -->
 
 [course-link]:
   https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science
 
-<!-- Solution folder links -->
+<!-- Problem set solutions -->
 
 [pset1-solution]: pset1/
 [pset2-solution]: pset2/
