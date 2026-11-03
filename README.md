@@ -11,7 +11,7 @@ passed 100% of the test cases and received full credit on the autograder.
 - **Course Name:** Introduction to Computational Thinking and Data Science
 - **Course Website:** [Introduction to Computational Thinking and Data
   Science][course-website]
-- **Technologies:** Python 3
+- **Technologies:** Python 3.5+
 - **Coursework Timeline:** March 31, 2024 – May 16, 2024
 
 ## Coursework
